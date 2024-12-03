@@ -1,4 +1,4 @@
-![Interview Preparation Documentation Banner](https://i.ibb.co.com/TwRQVnW/interview-preparation-compressed.png)
+![Interview Preparation Documentation Banner](https://i.ibb.co.com/dp1W7Ct/interview-preparation-optimized.png)
 
 <h1 align="center">🚀 Interview Preparation Documentation</h1>
 
