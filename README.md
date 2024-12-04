@@ -4,14 +4,13 @@
 
 Welcome to the **Interview Preparation Documentation** repository! 🎉 This project is designed to help you excel in technical interviews by providing well-structured notes, coding resources, and problem-solving strategies.
 
----
-
 ## 📌 Table of Contents
 
 - [📌 Table of Contents](#-table-of-contents)
 - [🌟 Introduction](#-introduction)
 - [✨ Features](#-features)
 - [📂 Contents](#-contents)
+  - [JavaScript](#javascript)
 - [🚀 Getting Started](#-getting-started)
 - [💡 Usage](#-usage)
 - [🤝 Contributing](#-contributing)
@@ -32,18 +31,20 @@ This repository serves as a comprehensive guide for anyone preparing for technic
 
 ## 📂 Contents
 
-The repository is organized into the following sections:
+### JavaScript
 
-1. **Data Structures**
-   - Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, and more.
-2. **Algorithms**
-   - Sorting, Searching, Dynamic Programming, Greedy Algorithms, etc.
-3. **System Design**
-   - Basic principles, scalability, load balancing, and sample case studies.
-4. **Behavioral Questions**
-   - STAR method and sample answers for commonly asked behavioral questions.
-5. **Coding Challenges**
-   - A curated list of coding problems from platforms like LeetCode, HackerRank, and Codeforces.
+| **S. No.** | **Topic**                                                                                                                                                                | **Description**                                     |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
+| 1          | [What is the Higher Order function & callback function in JavaScript?](./docs/javascript/README.md#1-what-is-the-higher-order-function--callback-function-in-javascript) | Explanation of higher-order and callback functions. |
+| 2          | [What is Hoisting in JavaScript?](./docs/javascript/README.md#2-what-is-hoisting-in-javascript)                                                                          | Understanding hoisting in JavaScript.               |
+| 3          | [What is Scope in JavaScript?](./docs/javascript/README.md#3-what-is-scope-in-javascript)                                                                                | Description of scope types in JavaScript.           |
+| 4          | [What is the difference between Call, Apply and Bind?](./docs/javascript/README.md#4-what-is-the-difference-between-call-apply-and-bind)                                 | Differences between `call`, `apply`, and `bind`.    |
+| 5          | [What is the difference between `==` and `===` operators?](./docs/javascript/README.md#5-what-is-the-difference-between--and--operators)                                 | Comparison between loose and strict equality.       |
+| 6          | [What is a cookie?](./docs/javascript/README.md#6-what-is-a-cookie)                                                                                                      | Overview of cookies in JavaScript.                  |
+| 7          | [What is a promise?](./docs/javascript/README.md#7-what-is-a-promise)                                                                                                    | Explanation of JavaScript promises.                 |
+| 8          | [What is an event loop?](./docs/javascript/README.md#8-what-is-an-event-loop)                                                                                            | Understanding the JavaScript event loop.            |
+| 9          | [What is a prototype chain?](./docs/javascript/README.md#9-what-is-a-prototype-chain)                                                                                    | Explanation of prototype chaining.                  |
+| 10         | [How can you eliminate the duplicate values from a JavaScript array?](./docs/javascript/README.md#10-how-can-you-eliminate-the-duplicate-values-from-a-javascript-array) | Techniques to remove duplicates from arrays.        |
 
 ## 🚀 Getting Started
 
