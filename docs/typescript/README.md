@@ -2,6 +2,18 @@
 
 # TypeScript
 
+- [TypeScript](#typescript)
+  - [1. What are the three main primitive data types in TypeScript?](#1-what-are-the-three-main-primitive-data-types-in-typescript)
+  - [2. What is an interface in TypeScript?](#2-what-is-an-interface-in-typescript)
+  - [3. What is a type assertion in TypeScript?](#3-what-is-a-type-assertion-in-typescript)
+  - [4. How many access modifiers are there in TypeScript?](#4-how-many-access-modifiers-are-there-in-typescript)
+  - [5. What are getters/setters?](#5-what-are-getterssetters)
+  - [6. How do you define a type alias in TypeScript? \& Explain the purpose of type aliases in TypScript.](#6-how-do-you-define-a-type-alias-in-typescript--explain-the-purpose-of-type-aliases-in-typscript)
+  - [7. What is the difference between public, private, and protected access modifiers?](#7-what-is-the-difference-between-public-private-and-protected-access-modifiers)
+  - [8. Describe the difference between any and unknown types in TypeScript. When would you use each?](#8-describe-the-difference-between-any-and-unknown-types-in-typescript-when-would-you-use-each)
+  - [9. How do you handle null and undefined in TypeScript?](#9-how-do-you-handle-null-and-undefined-in-typescript)
+  - [10. Describe the difference between interface and type in TypeScript.](#10-describe-the-difference-between-interface-and-type-in-typescript)
+
 ### 1. What are the three main primitive data types in TypeScript?
 
 The three main primitive data types in TypeScript. These are

@@ -11,6 +11,7 @@ Welcome to the **Interview Preparation Documentation** repository! 🎉 This pro
 - [✨ Features](#-features)
 - [📂 Contents](#-contents)
   - [JavaScript](#javascript)
+  - [TypeScript](#typescript)
 - [🚀 Getting Started](#-getting-started)
 - [💡 Usage](#-usage)
 - [🤝 Contributing](#-contributing)
@@ -45,6 +46,21 @@ This repository serves as a comprehensive guide for anyone preparing for technic
 | 8          | [What is an event loop?](./docs/javascript/README.md#8-what-is-an-event-loop)                                                                                            | Understanding the JavaScript event loop.            |
 | 9          | [What is a prototype chain?](./docs/javascript/README.md#9-what-is-a-prototype-chain)                                                                                    | Explanation of prototype chaining.                  |
 | 10         | [How can you eliminate the duplicate values from a JavaScript array?](./docs/javascript/README.md#10-how-can-you-eliminate-the-duplicate-values-from-a-javascript-array) | Techniques to remove duplicates from arrays.        |
+
+### TypeScript
+
+| **S. No.** | **Topic**                                                                                                                                                                                                                           | **Description**                                         |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 1          | [What are the three main primitive data types in TypeScript?](./docs/typescript//README.md#1-what-are-the-three-main-primitive-data-types-in-typescript)                                                                            | Explanation of TypeScript's main primitive data types.  |
+| 2          | [What is an interface in TypeScript?](./docs/typescript//README.md#2-what-is-an-interface-in-typescript)                                                                                                                            | Definition and use of interfaces in TypeScript.         |
+| 3          | [What is a type assertion in TypeScript?](./docs/typescript//README.md#3-what-is-a-type-assertion-in-typescript)                                                                                                                    | Overview of type assertions and their purpose.          |
+| 4          | [How many access modifiers are there in TypeScript?](./docs/typescript//README.md#4-how-many-access-modifiers-are-there-in-typescript)                                                                                              | Number and explanation of TypeScript access modifiers.  |
+| 5          | [What are getters/setters?](./docs/typescript//README.md#5-what-are-getterssetters)                                                                                                                                                 | Explanation of getters and setters in TypeScript.       |
+| 6          | [How do you define a type alias in TypeScript? & Explain the purpose of type aliases in TypeScript.](./docs/typescript//README.md#6-how-do-you-define-a-type-alias-in-typescript--explain-the-purpose-of-type-aliases-in-typscript) | How to define type aliases and their use cases.         |
+| 7          | [What is the difference between public, private, and protected access modifiers?](./docs/typescript//README.md#7-what-is-the-difference-between-public-private-and-protected-access-modifiers)                                      | Comparison of public, private, and protected modifiers. |
+| 8          | [Describe the difference between any and unknown types in TypeScript. When would you use each?](./docs/typescript//README.md#8-describe-the-difference-between-any-and-unknown-types-in-typescript-when-would-you-use-each)         | Differences between `any` and `unknown` types.          |
+| 9          | [How do you handle null and undefined in TypeScript?](./docs/typescript//README.md#9-how-do-you-handle-null-and-undefined-in-typescript)                                                                                            | Strategies for managing `null` and `undefined`.         |
+| 10         | [Describe the difference between interface and type in TypeScript.](./docs/typescript//README.md#10-describe-the-difference-between-interface-and-type-in-typescript)                                                               | Differences between `interface` and `type`.             |
 
 ## 🚀 Getting Started
 
