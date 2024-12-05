@@ -12,6 +12,8 @@ Welcome to the **Interview Preparation Documentation** repository! 🎉 This pro
 - [📂 Contents](#-contents)
   - [JavaScript](#javascript)
   - [TypeScript](#typescript)
+  - [Next.js](#nextjs)
+  - [Redux](#redux)
 - [🚀 Getting Started](#-getting-started)
 - [💡 Usage](#-usage)
 - [🤝 Contributing](#-contributing)
@@ -61,6 +63,36 @@ This repository serves as a comprehensive guide for anyone preparing for technic
 | 8          | [Describe the difference between any and unknown types in TypeScript. When would you use each?](./docs/typescript//README.md#8-describe-the-difference-between-any-and-unknown-types-in-typescript-when-would-you-use-each)         | Differences between `any` and `unknown` types.          |
 | 9          | [How do you handle null and undefined in TypeScript?](./docs/typescript//README.md#9-how-do-you-handle-null-and-undefined-in-typescript)                                                                                            | Strategies for managing `null` and `undefined`.         |
 | 10         | [Describe the difference between interface and type in TypeScript.](./docs/typescript//README.md#10-describe-the-difference-between-interface-and-type-in-typescript)                                                               | Differences between `interface` and `type`.             |
+
+### Next.js
+
+| **S. No.** | **Topic**                                                                                                                                                            | **Description**                                                             |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 1          | [How does Next.JS differ from a traditional React application?](./docs/nextjs/README.md#1-how-does-nextjs-differ-from-a-traditional-react-application)               | Differences between Next.js and traditional React applications.             |
+| 2          | [What are the advantages of using Next.js for server-side rendering?](./docs/nextjs/README.md#2-what-are-the-advantages-of-using-nextjs-for-server-side-rendering)   | Benefits of server-side rendering in Next.js.                               |
+| 3          | [Explain the difference between SSR and SSG](./docs/nextjs/README.md#3-explain-the-difference-between-ssr-and-ssg)                                                   | Comparison of Server-Side Rendering (SSR) and Static Site Generation (SSG). |
+| 4          | [What is the `getStaticProps` function in Next.js?](./docs/nextjs/README.md#4-what-is-the-getstaticprops-function-in-nextjs)                                         | Overview of `getStaticProps` and its use cases.                             |
+| 5          | [What is the `getServerSideProps` function in Next.js?](./docs/nextjs/README.md#5-what-is-the-getserversideprops-function-in-nextjs)                                 | Explanation of `getServerSideProps` and its applications.                   |
+| 6          | [What is the purpose of the next.config.js file?](./docs/nextjs/README.md#6-what-is-the-purpose-of-the-nextconfigjs-file)                                            | Importance and functionality of the `next.config.js` file.                  |
+| 7          | [What are some common performance optimization techniques in Next.js?](./docs/nextjs/README.md#7-what-are-some-common-performance-optimization-techniques-in-nextjs) | Performance optimization strategies in Next.js.                             |
+| 8          | [Explain how middleware works in Next.js.](./docs/nextjs/README.md#8-explain-how-middleware-works-in-nextjs)                                                         | Functionality and usage of middleware in Next.js.                           |
+| 9          | [What is prefetching in Next.js?](./docs/nextjs/README.md#9-what-is-prefetching-in-nextjs)                                                                           | Explanation of prefetching and its benefits in Next.js.                     |
+| 10         | [How can you handle client-side navigation in Next.js?](./docs/nextjs/README.md#10-how-can-you-handle-client-side-navigation-in-nextjs)                              | Methods for implementing client-side navigation in Next.js.                 |
+
+### Redux
+
+| **S. No.** | **Topic**                                                                                                                                                                | **Description**                                             |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
+| 1          | [What is Redux and why is it used?](./docs/redux/README.md#1-what-is-redux-and-why-is-it-used)                                                                           | Introduction to Redux and its use cases.                    |
+| 2          | [What is a reducer in Redux?](./docs/redux/README.md#2-what-is-a-reducer-in-redux)                                                                                       | Explanation of reducers and their role in Redux.            |
+| 3          | [How does Redux manage state?](./docs/redux/README.md#3-how-does-redux-manage-state)                                                                                     | Overview of state management in Redux.                      |
+| 4          | [How can you handle asynchronous action in Redux?](./docs/redux/README.md#4-how-can-you-handle-asynchronous-action-in-redux)                                             | Techniques for managing asynchronous actions in Redux.      |
+| 5          | [Explain the use of the useDispatch hook in Redux.](./docs/redux/README.md#5-explain-the-use-of-the-usedispatch-hook-in-redux)                                           | Purpose and usage of the `useDispatch` hook.                |
+| 6          | [How can you optimize performance in a Redux application?](./docs/redux/README.md#6-how-can-you-optimize-performance-in-a-redux-application)                             | Strategies for improving performance in Redux applications. |
+| 7          | [What is the difference between a slice and a reducer in Redux Toolkit?](./docs/redux/README.md#7-what-is-the-difference-between-a-slice-and-a-reducer-in-redux-toolkit) | Comparison of slices and reducers in Redux Toolkit.         |
+| 8          | [How do you handle nested states in Redux?](./docs/redux/README.md#8-how-do-you-handle-nested-states-in-redux)                                                           | Methods for managing nested states in Redux.                |
+| 9          | [What are the differences between Redux and the Context API in React?](./docs/redux/README.md#9-what-are-the-differences-between-redux-and-the-context-api-in-react)     | Key differences between Redux and Context API.              |
+| 10         | [Describe a project where you used Redux and the challenges you faced.](./docs/redux/README.md#10-describe-a-project-where-you-used-redux-and-the-challenges-you-faced)  | Discussion of a Redux project and associated challenges.    |
 
 ## 🚀 Getting Started
 
@@ -118,7 +150,7 @@ Hi, I’m **Noyon Rahman**, a passionate web developer and content creator. With
 
 I'm currently a 12th-grade student exploring the field of **Computer Science Engineering (CSE)** and passionate about sharing my knowledge with others.
 
-- 🌟 Check out my portfolio: [noyonrahman.xyz](https://techtipshub.noyonrahman.xyz)
-- 📝 Explore my blogs: [TechTipsHub](https://techtipshub.noyonrahman.xyz)
-- 💻 GitHub Profile: [noyonalways](https://github.com/noyonalways)
-- 📧 Contact Me: [noyonrahman2003@gmail.com](mailto:noyonrahman2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-noyonrahman.xyz-blue)](https://techtipshub.noyonrahman.xyz)
+[![TechTipsHub](https://img.shields.io/badge/Blogs-TechTipsHub-blue)](https://techtipshub.noyonrahman.xyz)
+[![GitHub](https://img.shields.io/badge/GitHub-noyonalways-black?logo=github)](https://github.com/noyonalways)
+[![Email](https://img.shields.io/badge/Email-noyonrahman2003%40gmail.com-red)](mailto:noyonrahman2003@gmail.com)
